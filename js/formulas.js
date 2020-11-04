@@ -1,6 +1,6 @@
 // Basic math formulaas
 function addition(num1, num2){
-  return -1;
+  return -3;
 }
 
 function subtraction(num1, num2){
